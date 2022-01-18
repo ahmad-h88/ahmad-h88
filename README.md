@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ahmad
-- 👀 I’m interested in software development and testing
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m a QA Automation Tester
 - 📫 How to reach me: ahmadhabibzad@gmail.com
 
 <!---
